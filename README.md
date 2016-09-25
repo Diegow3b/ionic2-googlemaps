@@ -19,7 +19,7 @@ ionic plugin add cordova-plugin-geolocation
 git clone https://github.com/Diegow3b/ionic2-googlemaps.git
 ```
 ```sh
-cd ionic2-googlemaps/googlemaps
+cd ionic2-googlemaps/ionic-maps
 ```
 
 ```sh
